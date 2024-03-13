@@ -1,5 +1,9 @@
 # Questionnaire for Front-End Developer
 
+* [Github Link](https://github.com/LowBP)
+* [Website Link](https://lowbp.github.io/MyProfile/)
+* [LinkedIn](https://www.linkedin.com/in/pranav-venkidesan/)
+
 
 ## **Vue.js and Nuxt.js:**
 
